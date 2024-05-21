@@ -1,0 +1,6 @@
+.card{
+    padding: 20px;
+}
+.card .card-header{
+    text-align: center;
+}
